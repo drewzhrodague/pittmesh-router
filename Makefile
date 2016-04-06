@@ -5,11 +5,11 @@
 
 include $(TOPDIR)/rules.mk
 
-PKG_NAME:=pittmesh-router
+PKG_NAME:=pittmesh-autoconf
 PKG_RELEASE=$(PKG_SOURCE_VERSION)
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=git://github.com/pittmesh/pittmesh-router
+PKG_SOURCE_URL:=git://github.com/pittmesh/pittmesh-autoconf
 PKG_SOURCE_SUBDIR:=$(PKG_NAME)
 PKG_SOURCE:=$(PKG_NAME)
 
