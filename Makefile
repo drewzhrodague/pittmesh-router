@@ -29,7 +29,7 @@ define Package/pittmesh-autoconf
 endef
 
 define Package/$(PKG_NAME)/description
-  A shellscript based wizard to simplify the setup of a typical mesh node (e.g. for pittmesh)
+  A suite of files making mesh networking and management easier - pittmesh
 endef
 
 define Package/$(PKG_NAME)/install
